@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @niloofar01.
 - 👀 I’m interested in finding creative solution in complex problems.
-- 🌱 I’m currently learning c++, Solidity node.js.
-- 💞️ I’m looking to collaborate on a blockchain.
+- 🌱 I’m currently working on my products.
+- 💞️ I’m looking to collaboartion with like-minded.
 - 📫 How to reach me ... uhm I will tell
 
 <!---
